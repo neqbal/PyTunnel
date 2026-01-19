@@ -1,7 +1,5 @@
 # PyTunnel — Minimal WireGuard-inspired VPN (Student Project)
 
-**Status:** Design & implementation plan for a semester project. This README collects: project layout, protocol and feature design, TAP/bridge QEMU setup, demo plans (DDoS cookie challenge & replay protection), developer milestones, commands, and a suggested Gemini CLI prompt to generate the program scaffolding.
-
 ---
 
 ## Project summary
